@@ -1,1 +1,1 @@
-#Angular app boilerplate - clone this to start a new project
+#Angular module boilerplate - clone this to start a new module
