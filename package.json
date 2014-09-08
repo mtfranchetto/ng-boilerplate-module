@@ -1,7 +1,7 @@
 {
   "name": "ng-boilerplate-module",
   "version": "0.1.1",
-  "dependencies": {
+  "devDependencies": {
     "angular": "git+https://bitbucket.org/mtfranchetto/angular",
     "browserify": "^4.0.0",
     "browserify-istanbul": "^0.1.2",
@@ -19,8 +19,9 @@
     "underscore": "^1.7.0"
   },
   "browser": {
-    "jquery": "./node_modules/jquery/dist/jquery.min.js",
-    "underscore": "./node_modules/underscore/underscore-min.js"
+    "jquery": "jquery/dist/jquery.min.js",
+    "underscore": "underscore/underscore-min.js",
+    "angular": "angular"
   },
   "engines": {
     "node": ">=0.10.0"
@@ -33,6 +34,7 @@
   },
   "browserify-shim": {
     "jquery": "$",
-    "underscore": "_"
+    "underscore": "_",
+    "angular": "angular"
   }
 }
