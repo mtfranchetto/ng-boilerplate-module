@@ -1,6 +1,6 @@
 {
   "name": "ng-boilerplate-module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "devDependencies": {
     "angular": "git+https://bitbucket.org/mtfranchetto/angular",
     "browserify": "^4.0.0",
