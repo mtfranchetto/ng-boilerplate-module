@@ -2,7 +2,7 @@
 
 A [ng-boilerplate-app](https://github.com/mtfranchetto/ng-boilerplate-app) module. To start a new module, just fork the repo and start editing stuff.
 
-###CLI reference:
+##CLI reference:
 
 `$ gulp test`
 
@@ -11,3 +11,7 @@ Run tests with **[Karma](https://github.com/karma-runner/karma)** and **[Jasmine
 `$ gulp lint`
 
 Run [JSHint](http://www.jshint.com/).
+
+##Contribute
+
+**I am using [Git Flow](https://github.com/nvie/gitflow).**
