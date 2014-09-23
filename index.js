@@ -2,6 +2,6 @@
 
 require('angular');
 require('jquery');
-require('underscore');
+require('lodash');
 
 //Custom rules
